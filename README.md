@@ -2,7 +2,7 @@ Spring Boot Microservices-Based E-Commerce System
 GitHub: Project Repository
 
 Description:
-Developed a scalable, modular, and cloud-ready microservices-based e-commerce system using Spring Boot and Spring Cloud. The application is divided into three core microservices:
+Developed a scalable, modular, and -ready microservices-based e-commerce system using Spring Boot and Spring . The application is divided into three core microservices:
 
 Product Service: Manages product creation and retrieval.
 Order Service: Handles order placement and processing.
